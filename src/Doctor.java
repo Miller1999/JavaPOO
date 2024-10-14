@@ -3,6 +3,7 @@ public class Doctor {
     static int id = 0;
     String name;
     String speciality;
+    String email;
 
     // Constructor
     // Se puede pasar cualquier atributo dentro de los parentesis
