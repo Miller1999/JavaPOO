@@ -6,5 +6,7 @@ public class Main {
         myDoctor.showName();
 
         showMenu();
+
+        Patient patient = new Patient("Leidy","lea@mail.com");
     }
 }
